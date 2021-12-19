@@ -3,5 +3,3 @@ This is an example of a simple exploratory data analysis that reflects the retur
 
 - The first report is generated using Pandas-profiling.
 - The second report is generated using Sweetviz.
-
-*Exersice for learning purposes*
